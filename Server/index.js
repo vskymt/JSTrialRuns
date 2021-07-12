@@ -20,4 +20,4 @@ let circle = {
         console.log ('draw');
     }
 };
-circle.draw();s
+circle.draw();
